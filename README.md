@@ -18,3 +18,5 @@ Then I let the model memorized a 64x64 grayscale image and corrupted half of the
 </p>
 
 ## Neural Network
+n building the neural network project, we start-off with simple perceptron and move on to a scalable multi-layer feedforward neural network. I found this [tutorial](https://nndl.github.io/) extremely helpful while implementing my own FNN model. 
+After implementing the basics of the model, we were given a dataset that contains all the possible combinations of atomic spins (features) of a 10x10 [Ising model](https://en.wikipedia.org/wiki/Ising_model)and labels of the Ising model. I trained the model on the training set and then tested on the validation set and achieved 91% accuracy. Using the predicated labels on the validation set, I also successfully identified the phase transition of the Ising model.
