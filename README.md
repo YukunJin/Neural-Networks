@@ -6,12 +6,12 @@ Hopfield Network was invented in 1982 by J.J.Hopfield. A more general introducti
 After building the Hopfield Network, we let it memorized some simple images and corrupted some of the pixels and tested the performance of the Hopfield Network. 
 Then I let the model memorized a 64x64 grayscale image and corrupted half of the pixels. After a few iterations, it converged to original image with only few pixels corrupted.
 <p align = “center”>
-  <img src=“[Neural-Networks/0.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/0.jpg)”  />
-  <img src=“/[Neural-Networks/1.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/1.jpg)” /> 
-  <img src=“[Neural-Networks/2.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/2.jpg)  />
-  <img src=“[Neural-Networks/3.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/3.jpg)”>
-   <img src=“[Neural-Networks/5.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/5.jpg)”>
-   <img src=“”[Neural-Networks/6.jpg at master · jinyk44/Neural-Networks · GitHub](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/6.jpg)>
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/0.jpg” />
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/1.jpg” /> 
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/2.jpg" />
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/3.jpg” />
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/4.jpg” />
+  <img src=“https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/5.jpg" />
 </p>
 
 
