@@ -13,3 +13,8 @@ Then I let the model memorized a 64x64 grayscale image and corrupted half of the
   <img src = "https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/4.jpg" alt = "4">
   <img src = "https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/5.jpg" alt = "5">
 </p>
+<p align = "center">
+  Snapshots taken during iterations
+</p>
+
+## Neural Network
