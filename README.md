@@ -6,7 +6,6 @@ Hopfield Network was invented in 1982 by J.J.Hopfield. A more general introducti
 After building the Hopfield Network, we let it memorized some simple images and corrupted some of the pixels and tested the performance of the Hopfield Network. 
 Then I let the model memorized a 64x64 grayscale image and corrupted half of the pixels. After a few iterations, it converged to original image with only few pixels corrupted.
 
-![alt text](https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/initial.jpg)
 <img src="https://github.com/jinyk44/Neural-Networks/blob/master/thumbnail_train/imgs/initial.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+	title="A cute kitten" />
 
